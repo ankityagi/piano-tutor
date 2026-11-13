@@ -1,0 +1,6 @@
+recording,target,expected_mistakes
+clean_take.m4a,twinkle.txt,0
+two_mistakes.m4a,twinkle.txt,2
+with_tv_on.m4a,twinkle.txt,0
+faster_take.m4a,twinkle.txt,0
+guitar_riff.m4a,riff.txt,0
